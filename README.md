@@ -35,8 +35,8 @@ A powerful Streamlit application that enables intelligent conversations with res
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/RajaChatPDF.git
-cd RajaChatPDF
+git clone https://github.com/yennares/chat_with_resume.git
+cd chat_with_resume
 ```
 
 ### Step 2: Set Up Python Environment (Recommended)
